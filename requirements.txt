@@ -1,3 +1,6 @@
 pyperclip
 streamlit
 cryptography
+matplotlib
+pandas
+numpy
